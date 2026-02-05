@@ -1,10 +1,6 @@
 {
   "players": [
     {
-      "name": "Imaya",
-      "photo": "assets/Imaya.jpg"
-    },
-    {
       "name": "Aadhi",
       "photo": "assets/Aadhi_6867.jpg",
       "created": "2026-02-05T11:03:29.730900"
